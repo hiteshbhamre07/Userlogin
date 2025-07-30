@@ -38,4 +38,8 @@ pip install -r requirements.txt
 Make sure MySQL is running and update your database URI in the script:
 app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://root:root@localhost/flaskapp_db'
 
+🚀 Running the App
+
+  python app.py
+
 
